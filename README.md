@@ -1,7 +1,7 @@
 # 👋 Thanks For visiting!
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJ-Kerr)](https://github.com/anuraghazra/github-readme-stats)-->
 ## I am Miles Kerr,
-###I am relativly new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind. The language I most vibed with is React. Just the remarkable ease and functionality of react makes me want to learn so much more. Please don't get me wrong I see a use for the others put thats where my passion lies.
+### I am relativly new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind. The language I most vibed with is React. Just the remarkable ease and functionality of react makes me want to learn so much more. Please don't get me wrong I see a use for the others put thats where my passion lies.
 
 <p align="center"> 
   Visitor count<br>
