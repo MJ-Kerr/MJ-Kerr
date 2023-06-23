@@ -8,7 +8,7 @@
 
 ### In my past life I was a bartender so I know what its like to have a million things on your plate and people keep giving you more. This skill has helped me with building applications that have multiple different features running at the same time, since I am used to multi-tasking.
 
-### If you stumbled upon my GitHub thank you pleas check out my portfolio site at www.TheMJKDesign.com. I built it using React with 3js, which wasn't taught at Coding Dojo, during a week off that we had.
+### If you stumbled upon my GitHub thank you please check out my portfolio site at www.TheMJKDesign.com. I built it using React with 3js, which wasn't taught at Coding Dojo, during a week off that we had.
 
 <p align="center"> 
   Visitor count<br>
