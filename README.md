@@ -2,7 +2,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJ-Kerr)](https://github.com/anuraghazra/github-readme-stats)-->
 ## I am Miles Kerr,
 
-### I am relativly new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind. The language I most vibed with is React. Just the remarkable ease and functionality of react makes me want to learn so much more. Please don't get me wrong I see a use for the others put thats where my passion lies.
+### I am relativly new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind.
 
 ### The bootcamp taught me a lot about what I was capable of when I put my  mind to it. As somebody who didn't really play around with coding before I got started, it was remarkable how well I was able to excel without the years of coding my cohort mates had. Imagine I didn't even own a computer a year and a half a go, and now I'm looking for my first job in tech.
 
