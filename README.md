@@ -1,5 +1,8 @@
 # 👋 Thanks For visiting!
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJ-Kerr)](https://github.com/anuraghazra/github-readme-stats)-->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MJ-Kerr/count.svg" />
+</p>
 ## I am Miles Kerr,
 
 ### I am relativly new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind.
@@ -10,12 +13,15 @@
 
 ### If you stumbled upon my GitHub thank you please check out my portfolio site at www.TheMJKDesign.com. I built it using React with 3js, which wasn't taught at Coding Dojo, during a week off that we had.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MJ-Kerr/count.svg" />
-</p>
+## What I am working on now--
+<img width="388" alt="Screenshot 2023-07-20 at 11 38 29 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/cf8ded57-2085-459c-ac35-d9dd6405b9d7">
+<img width="388" alt="Screenshot 2023-07-20 at 11 38 57 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/1c78c16b-bc0c-4655-abad-8cf6ca2d8210">
+<img width="388" alt="Screenshot 2023-07-20 at 11 39 35 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/a07307f3-7f20-4f76-97b8-55ce9f4ba6e9">
+<img width="388" alt="Screenshot 2023-07-20 at 11 40 04 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/e3ff9043-dd7e-4334-aa9b-ca7f779a40c7">
+<img width="388" alt="Screenshot 2023-07-20 at 11 40 22 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/7cc6830e-11d4-4f6c-b523-04103055f030">
+
+
 <!--
-**MJ-Kerr/MJ-Kerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
