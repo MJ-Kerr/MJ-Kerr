@@ -1,9 +1,11 @@
 # 👋 Thanks For visiting!
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MJ-Kerr/count.svg" />
 </p>
-## I am Miles Kerr,
+
+# I am Miles Kerr,
 
 ### I am relativly new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind.
 
