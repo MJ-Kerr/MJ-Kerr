@@ -14,7 +14,7 @@ If you stumbled upon my GitHub thank you please check out my portfolio site at w
 </p>
 
 
-<h3 align="left">Connect with me: MilesKerr@theMJKdeesign.com</h3>
+<h3 align="left">Connect with me: MilesKerr@theMJKdesign.com</h3>
 <p align="left">
 </p>
 
