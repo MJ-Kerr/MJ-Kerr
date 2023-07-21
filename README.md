@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miles Kerr</h1>
-<p> You are the
+<h3>You are visitor number:</h3>
 ![Visitor Count](https://profile-counter.glitch.me/{MJ-Kerr}/count.svg)
- Visitor to my profile!
-</p>
+
 
 <p>  
 I am relatively new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind. While in the bootcamp I absolutely fell in love with the front end UI/UX of the website.
