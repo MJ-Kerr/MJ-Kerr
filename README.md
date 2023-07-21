@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miles Kerr</h1>
-
+![Visitor Count](https://profile-counter.glitch.me/MJ-Kerr/count.svg)
 <p>  
 I am relatively new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind. While in the bootcamp I absolutely fell in love with the front end UI/UX of the website.
 </p>
