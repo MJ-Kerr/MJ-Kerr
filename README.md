@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Miles Kerr</h1>
 
-### I am relatively new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind. While in the bootcamp I absolutely fell in love with the front end UI/UX of the website.
-
-### The bootcamp taught me a lot about what I was capable of when I put my  mind to it. As somebody who didn't really play around with coding before I got started, it was remarkable how well I was able to excel without the years of coding my cohort mates had. Imagine I didn't even own a computer a year and a half a go, and now I'm looking for my first job in tech.
-
-### In my past life I was a bartender so I know what its like to have a million things on your plate and people keep giving you more. This skill has helped me with building applications that have multiple different features running at the same time, since I am used to multi-tasking.
-
-### If you stumbled upon my GitHub thank you please check out my portfolio site at www.TheMJKDesign.com. I built it using React with 3js, which wasn't taught at Coding Dojo, during a week off that we had.
+<p>  
+I am relatively new to the developer life. Just got done with Coding Dojo, and wow that was a whirlwind. While in the bootcamp I absolutely fell in love with the front end UI/UX of the website.
+</p>
+<p>
+ The bootcamp taught me a lot about what I was capable of when I put my  mind to it. As somebody who didn't really play around with coding before I got started, it was remarkable how well I was able to excel without the years of coding my cohort mates had. Imagine I didn't even own a computer a year and a half a go, and now I'm looking for my first job in tech.
+</p>
+<p>
+In my past life I was a bartender so I know what its like to have a million things on your plate and people keep giving you more. This skill has helped me with building applications that have multiple different features running at the same time, since I am used to multi-tasking.
+</p>
+<p>
+If you stumbled upon my GitHub thank you please check out my portfolio site at www.TheMJKDesign.com. I built it using React with 3js, which wasn't taught at Coding Dojo, during a week off that we had.
+</p>
 
 
 <h3 align="left">Connect with me: <a href="http://themjkdesign.com">Personal website</a></h3>
