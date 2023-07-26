@@ -44,7 +44,7 @@ If you stumbled upon my GitHub thank you please check out my portfolio site at w
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🔭 I’m currently working on ... 
+## 🔭 I’m currently working on .... A mobile application leveraging React, geolocation APIs, and MongoDB to revolutionize the club and nightlife experience. Seamlessly tracks real-time crowd density and energy levels, enabling users to discover and explore the city's hottest spots. Engineered to bring people together, fostering unforgettable nightlife adventures. 
 <img width="388" alt="Screenshot 2023-07-20 at 11 38 29 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/cf8ded57-2085-459c-ac35-d9dd6405b9d7">
 <img width="388" alt="Screenshot 2023-07-20 at 11 38 57 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/1c78c16b-bc0c-4655-abad-8cf6ca2d8210">
 <img width="388" alt="Screenshot 2023-07-20 at 11 39 35 PM" src="https://github.com/MJ-Kerr/MJ-Kerr/assets/118866269/a07307f3-7f20-4f76-97b8-55ce9f4ba6e9">
